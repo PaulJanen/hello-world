@@ -1,4 +1,2 @@
-# hello-world
-First repository. just trying things out
+Kas skaitys tas gaidys
 
-Just starting out with programming 
