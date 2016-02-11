@@ -1,1 +1,1 @@
-Tu dabar turetum dirbti, o ne skaityt si teksta
+pats ir dirbk as laisvoje salyje gyvenu 
