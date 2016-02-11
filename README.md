@@ -1,1 +1,1 @@
-Duok rep tasku, kitaip tavo katinas mirs
+Duok rep tasku, kitaip tavo katinas mirs po savaites.
