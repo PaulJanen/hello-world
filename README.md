@@ -1,2 +1,1 @@
-Kas skaitys tas gaidys
-
+Duok rep tasku, kitaip tavo katinas mirs
