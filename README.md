@@ -1,1 +1,1 @@
-Duok rep tasku, kitaip tavo katinas mirs po savaites.
+Tu dabar turetum dirbti, o ne skaityt si teksta
