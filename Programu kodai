@@ -1,0 +1,117 @@
+B uzduotis :
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace A
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double r =(double.Parse( Console.ReadLine()))/2;
+            double plotas = r* r * Math.PI;
+            plotas =  Math.Round(plotas, 5);
+            Console.WriteLine(plotas);
+        }
+    }
+}
+
+
+
+C uzduotis : SITA GERA !!!!!!!!!
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace A
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            long x = Int32.Parse(Console.ReadLine());
+            long turis = x * x * x;
+            Console.WriteLine(turis);
+        }
+    }
+}
+
+
+
+
+
+D uzduotis :
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace A
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string skaiciai = Console.ReadLine();
+            double x = Int64.Parse(skaiciai.Split(' ')[0]);
+            double y = Int64.Parse(skaiciai.Split(' ')[1]);
+            double procentai = ((y * 100.00) / x)-100.00;
+            
+            Console.WriteLine("{0:0.00}", procentai);
+        }
+    }
+}
+
+
+
+
+E uzduotis :
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace A
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+             long x = Int64.Parse(Console.ReadLine());
+            x %= 2;
+            if (x==0)
+            {
+                Console.Write("taip");
+            }
+            else
+            {
+                Console.Write("ne");
+            }
+        }
+    }
+}
+
+
+
+
+
+F uzduotis :
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace A
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string skaicius = Console.ReadLine();
+            Console.Write(skaicius.Length);
+        }
+    }
+}
